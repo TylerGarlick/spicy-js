@@ -1,0 +1,7 @@
+--require expect.js
+--ui bdd
+--colors
+--growl
+--async-only
+--check-leaks
+--recursive
